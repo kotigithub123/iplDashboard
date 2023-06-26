@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg-teams-container {
+  background-image: linear-gradient(#1e293b, #a4261d, #d91c1f);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-image {
+  height: 350px;
+  width: auto;
+  margin: 10px;
+}
+
+.recentmatch-box {
+  display: flex;
+  flex-wrap: wrap;
+}

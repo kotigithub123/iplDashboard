@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.card-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ffffff;
+  background-color: #ffffff33;
+  border-radius: 10px;
+}
+
+.image {
+  height: 40px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.ipl-name {
+  color: #ffffff;
+}

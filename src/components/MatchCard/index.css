@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.recent-match {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  background-color: #0f172a;
+  border-radius: 5px;
+}
+
+.compete-logo {
+  height: 60px;
+  width: 40px;
+}
+
+p {
+  color: #ffffff;
+}
